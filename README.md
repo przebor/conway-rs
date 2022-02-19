@@ -1,7 +1,7 @@
-# Conway-Rs
+# conway-rs
 Simple Conway's game of life implementation in Rust
 ## Usage
-Use command line to start the executable and specify game rules [(pl)](https://pl.wikipedia.org/wiki/Gra_w_życie#Modyfikacje_reguł)
+Use command line to start the executable and specify game rules [(pl)](https://pl.wikipedia.org/wiki/Gra_w_życie#Modyfikacje_reguł) </br>
 Example (standard rules):
 ```
 ./path_to_conway_rs 23-3
